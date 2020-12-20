@@ -1,8 +1,8 @@
-# Cpu-Gpu-Meter
 ![photo](https://github.com/mertfozzy/Cpu-Gpu-Meter/blob/main/GIF-201220_052602.gif?raw=true)
 
-Arduino and Lcd Display, allows you to see real-time performance of your PC. Works with Windows.
+# Cpu-Gpu-Meter
 
+Arduino and Lcd Display, allows you to see real-time performance of your PC. Works with Windows.
 Basically, it's monitoring temperature, usage percentage and working frequency informations of Cpu and Gpu, to the LCD display.
 
 It is very useful to follow your PC's status, especially when you're developing a program or just gaming.
