@@ -1,5 +1,5 @@
 # Cpu-Gpu-Meter
-![photo](https://drive.google.com/file/d/1Z_R_s6f3_1uSHOlvqGtXMUJn2ns6AmsZ/view?usp=sharing)
+![photo](https://github.com/mertfozzy/Cpu-Gpu-Meter/blob/main/GIF-201220_052602.gif?raw=true)
 
 Arduino and Lcd Display, allows you to see real-time performance of your PC. Works with Windows.
 
